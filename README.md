@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a MERN stack developer with experience building web applications using MongoDB, Express, React, and Node.js. I have a passion for creating intuitive, user-friendly experiences and am always looking for new challenges to tackle.
+I am a MERN stack developer with experience building web applications using MongoDB, Express, React, and Node.js. In addition to my expertise with the MERN stack, I also have experience with C# and Python. I have a passion for creating intuitive, user-friendly experiences and am always looking for new challenges to tackle.
 
 ### Skills
 
@@ -10,6 +10,8 @@ I am a MERN stack developer with experience building web applications using Mong
 - JavaScript
 - HTML/CSS
 - Git/GitHub
+- C#
+- Python
 - Agile development methodologies
 
 <!--
