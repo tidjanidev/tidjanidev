@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Tidjani
+
+### About Me
+
+I am a MERN stack developer with experience building web applications using MongoDB, Express, React, and Node.js. I have a passion for creating intuitive, user-friendly experiences and am always looking for new challenges to tackle.
+
+### Skills
+
+- MERN stack development (MongoDB, Express, React, Node.js)
+- JavaScript
+- HTML/CSS
+- Git/GitHub
+- Agile development methodologies
 
 <!--
 **tidjanidev/tidjanidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
